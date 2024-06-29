@@ -229,7 +229,9 @@ h4 {
     gap: 10px;
     margin: 50px;
 }
-
+.hidden{
+display: none;
+}
 #faq h1 {
     text-align: center;
     color: white;
